@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "646b9a2ac15e6199b1ec0b40"
+  },
+  "name": "Justin Bieber",
+  "origin": "Canada"
+},
+{
+  "_id": {
+    "$oid": "646b9a67c15e6199b1ec0b41"
+  },
+  "name": "Rihanna",
+  "origin": "United States"
+},
+{
+  "_id": {
+    "$oid": "62863381f8470b9fd1b0995f"
+  },
+  "name": "Daft Punk",
+  "origin": "France"
+},
+{
+  "_id": {
+    "$oid": "6286354bf8470b9fd1b09965"
+  },
+  "name": "Chilly Gonzalez",
+  "origin": "Canada"
+},
+{
+  "_id": {
+    "$oid": "6580320875d4f098fac247eb"
+  },
+  "name": "Boys Noize",
+  "origin": "Germany"
+},
+{
+  "_id": {
+    "$oid": "658445cfc6e490d86481c954"
+  },
+  "name": "Taylor Swift",
+  "origin": "USA"
+},
+{
+  "_id": {
+    "$oid": "6584470cc6e490d86481c955"
+  },
+  "name": "Bad Bunny",
+  "origin": "Puerto Rico"
+},
+{
+  "_id": {
+    "$oid": "6584475cc6e490d86481c956"
+  },
+  "name": "Helene Fischer",
+  "origin": "Germany"
+}]
